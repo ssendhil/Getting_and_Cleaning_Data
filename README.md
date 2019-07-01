@@ -4,7 +4,10 @@ In this project, I  used data collected from the accelerometer and gyroscope of 
 
 This repository contains the following files:
 
-README.md, this file, which provides an overview of the data set and how it was created.
-tidy_data.txt, which contains the data set.
-CodeBook.md, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
-run_analysis.R, the R script that was used to create the data set 
+**README.md** this file provides an overview of the data set and how it was created.
+
+**final_data.txt** this file contains the final tidy data set.
+
+**CodeBook.md** this is the code book, which describes the contents of the data set
+
+**run_analysis.R** this is the R script that was used to create the data set 
