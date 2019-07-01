@@ -6,11 +6,13 @@ In this project, I  used data collected from the accelerometer and gyroscope of 
 
 This repository contains the following files:
 
+- `CodeBook.md` This is the code book, which describes the contents of the data set
+
 - `README.md` This file provides an overview of the data set and how it was created
 
-- `tidy_data.txt` This file contains the final tidy data set
+- `tidy_data.txt` This file contains the first tidy data set created
 
-- `CodeBook.md` This is the code book, which describes the contents of the data set
+- `final_data.txt` This file contains the final data set with the avg of each variable for each activity and each subject
 
 - `run_analysis.R` This is the R script that was used to create the data set 
 
