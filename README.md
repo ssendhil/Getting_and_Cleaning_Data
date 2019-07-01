@@ -12,7 +12,7 @@ This repository contains the following files:
 
 - `tidy_data.txt` This file contains the first tidy data set created
 
-- `final_data.txt` This file contains the final data set with the avg of each variable for each activity and each subject
+- `final_data.txt` This file contains the final data set with the avg of each variable for each activity and subject
 
 - `run_analysis.R` This is the R script that was used to create the data set 
 
